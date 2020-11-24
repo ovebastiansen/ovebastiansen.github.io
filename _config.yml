@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Oves Blog
+title: Blog
 description: The ramblings of a Cloud Solution Architect with a love for fast .NET code and getting it out to the consumers quickly with good DevOps practices.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -15,10 +15,12 @@ author-avatar: 09.jpg
 
 #-------------------------------
 # Contact links
-facebook:  https://facebook.com/ # Add your Facebook handle
-twitter:   https://twitter.com/ # Add your Facebook handle
-instagram: https://www.instagram.com/ # Add your Facebook handle
-pinterest: https://www.pinterest.com/ # Add your Facebook handle
+facebook: # Add your Facebook handle
+twitter:   https://twitter.com/ovebastiansen # Add your Facebook handle
+linkedin: https://www.linkedin.com/in/ovebastiansen/
+github: https://github.com/ovebastiansen
+instagram: # Add your Facebook handle
+pinterest: # Add your Facebook handle
 
 
 #-------------------------------
